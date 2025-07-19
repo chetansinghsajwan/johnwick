@@ -1,64 +1,9 @@
 fileFormatVersion: 2
-guid: fd040dd1ddfcf32589c1750beb6a1bde
+guid: 378dd11c67794d446833856b94a049b9
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Ch15_body
-    second: {fileID: 2100000, guid: f80c24365fb9b6279801f40928db74bf, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Ch15_body1
-    second: {fileID: 2100000, guid: 59c7d2ba99d677a729f04c1997e910b3, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch15_1001_Diffuse
-    second: {fileID: 2800000, guid: 5e6ca3ab3b1d3261baeb0bdd93787c25, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch15_1001_Glossiness
-    second: {fileID: 2800000, guid: a6e66ae344e8006398f291e6cf399800, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch15_1001_Normal
-    second: {fileID: 2800000, guid: 9b8715d09f5a11f35b6a5d890a0df84d, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch15_1001_Specular
-    second: {fileID: 2800000, guid: 83eed925ff7b110e68140c5de01806f7, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch15_1002_Diffuse
-    second: {fileID: 2800000, guid: 4fc4132c205b2ffab8f1be879a988f30, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch15_1002_Emissive
-    second: {fileID: 2800000, guid: ec336eb4515c68179ad97b15773e5c69, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch15_1002_Glossiness
-    second: {fileID: 2800000, guid: 22ac7cce2c41e2bab9a8d9644a70afff, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch15_1002_Normal
-    second: {fileID: 2800000, guid: 3a45ebd22dddde6f68e588c5415b0637, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch15_1002_Specular
-    second: {fileID: 2800000, guid: 79ce4acac97bf3433b7a95a293f77ec5, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -86,11 +31,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: T Pose
+      name: Rifle Aiming Idle
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
-      lastFrame: 1
+      lastFrame: 93
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
